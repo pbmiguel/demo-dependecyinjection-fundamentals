@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tighttly-coupled", "tighttly-coupled\tighttly-coupled.csproj", "{818555DE-89AE-4E39-A2CC-10D3215C918B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loosely-coupled", "loosely-coupled\loosely-coupled.csproj", "{2F82B3C5-3F2A-4533-9986-C827CFAB5660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818555DE-89AE-4E39-A2CC-10D3215C918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818555DE-89AE-4E39-A2CC-10D3215C918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818555DE-89AE-4E39-A2CC-10D3215C918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818555DE-89AE-4E39-A2CC-10D3215C918B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F82B3C5-3F2A-4533-9986-C827CFAB5660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F82B3C5-3F2A-4533-9986-C827CFAB5660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F82B3C5-3F2A-4533-9986-C827CFAB5660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F82B3C5-3F2A-4533-9986-C827CFAB5660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
